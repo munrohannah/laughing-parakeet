@@ -5,4 +5,7 @@ R resources
 
 > The purpose of this repo is as a collection point for websites and links to other resources for R.
 
-Not sure how I will organize this, but I am sure it will make sense to me.
+Currently this repo has resources about:
+- [Modeling](../Modeling.md)
+- [Creating functions and packages](../Functions.md)
+- [Plotting](../Plotting.md)
