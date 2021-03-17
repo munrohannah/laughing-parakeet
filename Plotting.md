@@ -11,3 +11,7 @@
 ## ggplot resources
 - This helps explain scales (Feb 15, 2021).
   - https://ggplot2tor.com/scales/
+
+## Colours
+- Explains when and which colour scales to use (March17, 2021)
+  - https://blog.datawrapper.de/which-color-scale-to-use-in-data-vis/
