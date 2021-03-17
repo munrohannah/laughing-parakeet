@@ -1,7 +1,9 @@
 # laughing-parakeet (auklet)
-R resources
+**R resources**
 
 *The name for this repo came from GitHub. I added the auklet as I felt it was needed.*
+
+![laughing parakeet auklets](image.png)
 
 > The purpose of this repo is as a collection point for websites and links to other resources for R.
 
