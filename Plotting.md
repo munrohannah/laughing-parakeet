@@ -15,3 +15,9 @@
 ## Colours
 - Explains when and which colour scales to use (March17, 2021)
   - https://blog.datawrapper.de/which-color-scale-to-use-in-data-vis/
+
+## Facet wrap labels
+- A way to get the labels to to wrap when they are long (March 29, 2021)
+  - https://gist.github.com/sharlagelfand/75a123672aefc5bbe8bdbaeec7633ab4
+- Other labelling information (March 29, 2021)
+  - https://ggplot2.tidyverse.org/reference/labellers.html 
