@@ -11,4 +11,4 @@ Currently this repo has resources about:
 - [Modeling](../master/Modeling.md)
 - [Creating functions and packages](../master/Functions.md)
 - [Plotting](../master/Plotting.md)
-- [Data wrangling](..master/data_wrangling.md)
+- [Data wrangling](../master/data_wrangling.md)
