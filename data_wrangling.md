@@ -13,3 +13,7 @@ praise (https://github.com/rladies/praise) (9 April 2021)
 
 kittyR (https://indrajeetpatil.github.io/kittyR/reference/kittyR.html) (15 April 2021)
  - Prints a kitty in the console and plays a cat meow
+
+## Beep function
+
+This is amazing
